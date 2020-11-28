@@ -10,7 +10,7 @@
 
 - **The goal is not mastery, but familiarity.** These exercises will help you build the muscle memory of writing code (not misspelling commands, closing brackets you open, etc...) as well as some basic concepts (variables, lists, strings, logic). It will be easier to learn and use these concepts in class if you've encountered them before. The goal is to give you a sense of familiarity for when we work with code in the class. 
 
-- **You only have to do the first "Lesson" within each section**. All the other sections, like (quizze,projects,additonal lessons, etc.) are not required. See image below: 
+- **You only have to do the first "Lesson" within each section**. All the other sections, like (quizzes, projects, additonal lessons, etc.) are not required. See image below: 
 
 	![](./images/codecadeemy-example.png)
 	
