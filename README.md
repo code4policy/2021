@@ -32,7 +32,7 @@ file | description
 
 file | description
 -----|------------
-[../modules/agile](../modules/agile) | Agile and Scrum
+[modules/agile](../modules/agile) | Agile and Scrum
 
 ### Async
 
