@@ -32,7 +32,7 @@ file | description
 
 file | description
 -----|------------
-[modules/agile](../modules/agile) | Agile and Scrum
+[../modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum
 
 ### Async
 
