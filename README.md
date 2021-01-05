@@ -50,7 +50,7 @@ file | description
 [modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub Overview (Lesson 1 and 2 recap)
 Bad Veggies [a](https://github.com/code4policy/bad-veggies-website-section-a) [b](https://github.com/code4policy/bad-veggies-website-section-b) | Collaborating on GitHub
 [modules/setup](https://github.com/code4policy/modules/tree/master/setup)	| Install party + SSH
-[modules/git](https://github.com/code4policy/modules/tree/master/git) | 04-local-git.md
+[modules/git](https://github.com/code4policy/modules/tree/master/git) | Lesson 04-local-git.md
 [simple-website](https://github.com/code4policy/simple-website) | Developing with Git locally
 [ ]() | Proj. group "Speed Dating" on Ohyay
 
