@@ -69,13 +69,12 @@ Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pa
 file | description
 -----|------------
 [ ]() | Standup Meeting
+[ ]() | Recap of homework
 [modules/commandline](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
-[simple-website](https://github.com/code4policy/simple-website) | Developing with Git locally
-[universe assignment](https://classroom.github.com/a/wtsFvR6p) | Universe assignemnt for navigating filesystem
--- | Group Meetings (roles,  decide on topic, brainstorm users)
+-- | Group Meetings (decide on topic, brainstorm users, start thinking about user stories)
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-Please check an hour or so after class.
+-- | -- | <ul><li>[modules/commandline/07-homework.md] (https://github.com/code4policy/modules/blob/master/commandline/07-homework.md)</li><li>[simple-website](https://github.com/code4policy/simple-website)</li></ul> | Select topic, brainstorm potential users, start thinking about user stories
