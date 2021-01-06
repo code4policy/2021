@@ -54,10 +54,6 @@ Bad Veggies [a](https://github.com/code4policy/bad-veggies-website-section-a) [b
 [simple-website](https://github.com/code4policy/simple-website) | Developing with Git locally
 [ ]() | Proj. group "Speed Dating" on Ohyay
 
-
-
-
-
 ### Async
 
 Video  | Reading| Coding | Project
@@ -65,3 +61,21 @@ Video  | Reading| Coding | Project
 Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=301dc6aa-8418-4872-ae10-ac9d0065911f)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=543e413a-6664-4ef6-aa83-ac9d00736510)</li></ul> | GitHub Reflection | -- | Project Group Brinstorm
 
 
+## Day 3 (Jan 6)
+
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/commandline](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
+[simple-website](https://github.com/code4policy/simple-website) | Developing with Git locally
+[universe assignment](https://classroom.github.com/a/wtsFvR6p) | Universe assignemnt for navigating filesystem
+-- | Group Meetings (roles,  decide on topic, brainstorm users)
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+Please check an hour or so after class.
