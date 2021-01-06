@@ -77,4 +77,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | <ul><li>[modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md)</li> <li>[simple-website](https://github.com/code4policy/simple-website)</li></ul> | Select topic, brainstorm potential users, start thinking about user stories
+-- | -- | <ul><li>[simple-website](https://github.com/code4policy/simple-website)</li><li>[modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md)</li></ul> | Select topic, brainstorm potential users, start thinking about user stories
