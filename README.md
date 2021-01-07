@@ -97,6 +97,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-Please check back about 30 mins after class
-<!--
--- | Independent research (google, youtube, etc...) and reflection. Strategies for a good:<ul><li>storytime meeting</li><li>sprint planning meeting</li></ul> | -- | Finish storytime. Start sprint planning meeting.-->
+-------|-------|-------| Be prepared with user stories at the next class. If you have some, start to break down stories that are too lage into smaller stories.
