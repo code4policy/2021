@@ -97,4 +97,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--------|-------|-------| Be prepared with user stories at the next class. If you have some, start to break down stories that are too lage into smaller stories.
+-------|-------|-------| Be prepared with user stories at the next class. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP) over the weekend.
