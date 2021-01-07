@@ -88,7 +88,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting
 -- | Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
-[modules/git/05-commandline-git-practice.md](https://github.com/code4policy/modules/blob/master/git/05-commandline-git-practice.md)| Commandline git practice
+[modules/git/05-commandline-git-practice.md](https://github.com/code4policy/modules/blob/master/git/05-commandline-git-practice.md)| Commandline git practice (section A skipped this)
 [modules/web](https://github.com/code4policy/modules/tree/master/web) (Lessons 1 & 2)| Basics of the web and the internet
 [modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| HTML, CSS, Javaascript
 -- | Sprint planning meeting demo
