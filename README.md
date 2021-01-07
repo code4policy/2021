@@ -58,7 +58,7 @@ Bad Veggies [a](https://github.com/code4policy/bad-veggies-website-section-a) [b
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=301dc6aa-8418-4872-ae10-ac9d0065911f)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=543e413a-6664-4ef6-aa83-ac9d00736510)</li></ul> | GitHub Reflection | -- | Project Group Brinstorm
+Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=301dc6aa-8418-4872-ae10-ac9d0065911f), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=543e413a-6664-4ef6-aa83-ac9d00736510), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> | GitHub Reflection | -- | Project Group Brinstorm
 
 
 ## Day 3 (Jan 6)
@@ -78,3 +78,25 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | <ul><li>[simple-website](https://github.com/code4policy/simple-website)</li><li>[modules/commandline/07-homework.md](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md)</li></ul> | Select topic, brainstorm potential users, start thinking about user stories
+
+## Day 4 (Jan 7)
+
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+-- | Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
+[modules/git/05-commandline-git-practice.md](https://github.com/code4policy/modules/blob/master/git/05-commandline-git-practice.md)| Commandline git practice
+[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lessons 1 & 2)| Basics of the web and the internet
+[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| HTML, CSS, Javaascript
+-- | Sprint planning meeting demo
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+Please check back about 30 mins after class
+<!--
+-- | Independent research (google, youtube, etc...) and reflection. Strategies for a good:<ul><li>storytime meeting</li><li>sprint planning meeting</li></ul> | -- | Finish storytime. Start sprint planning meeting.-->
