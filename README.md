@@ -107,7 +107,7 @@ Today we'll be in the [finalproject](https://github.com/code4policy/modules/tree
 
 file | description
 -----|------------
-	  | Workshop some user stories together
+![]()  | Workshop some user stories together
 [modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting
 [modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting
 [modules/git/06-branching.md](https://github.com/code4policy/modules/blob/master/git/06-branching.md) | Review Branching in Git
