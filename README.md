@@ -98,3 +98,22 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -------|-------|-------| Be prepared with user stories at the next class. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP) over the weekend.
+
+## Day 5 (Jan 8)
+
+### Sync
+
+Today we'll be in the [finalproject](https://github.com/code4policy/modules/tree/master/finalproject) module.
+
+file | description
+-----|------------
+	  | Workshop some user stories together
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting
+[modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting
+[modules/git/06-branching.md](https://github.com/code4policy/modules/blob/master/git/06-branching.md) | Review Branching in Git
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+Please check back an hour after class
