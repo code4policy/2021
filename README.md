@@ -116,4 +116,5 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-Please check back an hour after class
+Getting started with your projects [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aee5c6b-b97a-426e-81c9-acab00224fc0) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | Atlassian roundtable **(optional)** - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | -- | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Tuesday)</li></ul>
+

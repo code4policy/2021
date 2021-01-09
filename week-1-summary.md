@@ -18,7 +18,8 @@
 	* Git and GitHub [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=811469c4-0c47-4a1d-a0c6-ac9e01501327) and associated files ([01-intro-git.md](https://github.com/code4policy/modules/blob/master/git/01-intro-git.md), [02-intro-github.md](https://github.com/code4policy/modules/blob/master/git/02-intro-github.md))
 	* Command Line 1 Intro [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=301dc6aa-8418-4872-ae10-ac9d0065911f) and [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)
 	* Command Line 2 Filesystem [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=543e413a-6664-4ef6-aa83-ac9d00736510) and [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)
-*  **(new)** Getting started with your projects [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aee5c6b-b97a-426e-81c9-acab00224fc0) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md)
+*  Getting started with your projects [video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aee5c6b-b97a-426e-81c9-acab00224fc0) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md)
+*  Atlassian roundtable **(optional)** - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg))
 
 ## Lessons Covered In Class
 
