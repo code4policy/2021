@@ -120,3 +120,21 @@ Getting started with your projects [video](https://harvard.hosted.panopto.com/Pa
 
 Some students have requested a summary of week 1. Here it is!
 https://github.com/code4policy/2021/blob/main/week-1-summary.md
+
+# Week 2
+
+## Day 1 (Jan 11)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization
+[ ]() | Group work (Sprint 1)
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+[visualization video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2ffea40-4fad-4b4c-a2cd-aca2014b175a) | -- | -- | Sprint 1
