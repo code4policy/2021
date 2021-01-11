@@ -137,4 +137,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-[visualization video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2ffea40-4fad-4b4c-a2cd-aca2014b175a) | -- | -- | Sprint 1
+Watch the [visualization video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2ffea40-4fad-4b4c-a2cd-aca2014b175a) and post questions or discussion points for Julia in #dataviz Slack| -- | -- | Sprint 1
