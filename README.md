@@ -138,3 +138,26 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 Watch the [visualization video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2ffea40-4fad-4b4c-a2cd-aca2014b175a) and post questions or discussion points for Julia in #dataviz Slack| -- | -- | Sprint 1
+
+## Day 2 (Jan 12)
+
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[finalproject/05-sprint-review.md](https://github.com/code4policy/modules/blob/master/finalproject/05-sprint-review.md) | Sprint Review
+[modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data transformations module
+Julia Q&A | 11am (section  A), 6pm (section  B)
+[]() | Group work (Sprint 1)
+
+
+### Async
+
+Check back 1 hr after class
+
+<!--Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--| [agile/07-reading2.md](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) (by Thursday) | http://jsforcats.com/ **(Optional)** | Group Work Sprint 1
+-->
