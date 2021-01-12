@@ -157,7 +157,6 @@ Julia Q&A | 11am (section  A), 6pm (section  B)
 
 Check back 1 hr after class
 
-<!--Video  | Reading| Coding | Project
+Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| [agile/07-reading2.md](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) (by Thursday) | http://jsforcats.com/ **(Optional)** | Group Work Sprint 1
--->
