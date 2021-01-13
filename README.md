@@ -155,8 +155,26 @@ Julia Q&A | 11am (section  A), 6pm (section  B)
 
 ### Async
 
-Check back 1 hr after class
-
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| [agile/07-reading2.md](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) (by Thursday) | http://jsforcats.com/ **(Optional)** | Group Work Sprint 1
+
+## Day 3 (Jan 13)
+
+### Sync
+
+Agile Day for Sprint 2!
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[finalproject/05-sprint-review.md](https://github.com/code4policy/modules/blob/master/finalproject/05-sprint-review.md) | Sprint Review
+[finalproject/06-sprint-retrospective.md](https://github.com/code4policy/modules/blob/master/finalproject/06-sprint-retrospective.md) | Sprint Retrospective
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime Meeting
+[modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--| [agile/07-reading2.md](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md)| -- | Group Work Sprint 2
