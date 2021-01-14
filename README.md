@@ -195,3 +195,7 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- |-- | [data conversions homework](https://classroom.github.com/a/_AAda6Vd)  **required **ONLY** if you don't use D3 for your project - Due with project (Jan 18) | Group work sprint 2 
+
+**Additional Notes**
+	
+* This [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc8GuAn1iQoauK39SAC5woXCX7w5h7CXTKZp7c1sFwW9MjqoA/viewform?usp=sf_link) is available if you'd like to get your participation points for reflection through "journal entry" rather than Slack. If you wrote any "journal entires", you can submit them here!
