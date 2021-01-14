@@ -195,3 +195,20 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- |-- | [data conversions homework](https://classroom.github.com/a/_AAda6Vd)  **required **ONLY** if you don't use D3 for your project - Due with project (Jan 18) | Group work sprint 2 
+
+## Day 5 (Jan 15)
+
+### Sync
+
+file | description
+-----|------------
+[]() | Standup Meeting 
+[modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data transformations module: python
+[security/encryption.md](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Encryption
+[web/10-goodbye.md](https://github.com/code4policy/modules/blob/master/web/10-goodbye.md) | Parting Thoughts
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (optional, but fun!) | -- | Finish Sprint 2!
