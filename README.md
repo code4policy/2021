@@ -188,7 +188,7 @@ file | description
 [ ]() | Standup Meeting (groups)
 [ ]() | Storytime and Sprint Planning + Dhrumil User Stories Checkin
 10am Section A / 4:15pm Section B | David Zvenyach Q&A
-[modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data transformations module: python
+<ul><li>[modules/data/](https://github.com/code4policy/modules/tree/master/data)</li><li>[assignment](https://classroom.github.com/a/pP94cFu_)</li></ul> | Data transformations module: python
 
 ### Async
 
