@@ -211,4 +211,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (optional, but fun!) | -- | Finish Sprint 2!
+-- | [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (optional, but fun!) | -- | [Finish Sprint 2](https://github.com/code4policy/modules/blob/master/finalproject/project.md)!
