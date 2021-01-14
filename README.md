@@ -148,7 +148,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting (groups)
 [finalproject/05-sprint-review.md](https://github.com/code4policy/modules/blob/master/finalproject/05-sprint-review.md) | Sprint Review
-[modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data transformations module
+[modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data transformations module - Lesson 1
 Julia Q&A | 11am (section  A), 6pm (section  B)
 []() | Group work (Sprint 1)
 
@@ -178,3 +178,20 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| [agile/07-reading2.md](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md)| -- | Group Work Sprint 2
+
+## Day 4 (Jan 14)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[ ]() | Storytime and Sprint Planning + Dhrumil User Stories Checkin
+10am Section A / 4:15pm Section B | David Zvenyach Q&A
+[modules/data/](https://github.com/code4policy/modules/tree/master/data) | Data transformations module: python
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- |-- | [conversions](https://github.com/code4policy/conversions)  **required **ONLY** if you don't use D3 for your project | Group work sprint 2
