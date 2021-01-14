@@ -194,4 +194,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- |-- | [conversions](https://github.com/code4policy/conversions)  **required **ONLY** if you don't use D3 for your project | Group work sprint 2
+-- |-- | [data conversions homework](https://classroom.github.com/a/_AAda6Vd)  **required **ONLY** if you don't use D3 for your project - Due with project (Jan 18) | Group work sprint 2 
