@@ -209,7 +209,7 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting
-<ul><li>[modules/data/](https://github.com/code4policy/modules/tree/master/data)</li><li>[Assignment (Section A)](https://classroom.github.com/a/pP94cFu_)</li><li>[Assignment (Section B)](https://classroom.github.com/a/pP94cFu_)</li></ul> | Data Transformation
+[ ]() | <ul><li>[modules/data/](https://github.com/code4policy/modules/tree/master/data)</li><li>[Assignment (Section A)](https://classroom.github.com/a/pP94cFu_)</li><li>[Assignment (Section B)](https://classroom.github.com/a/pP94cFu_)</li></ul>
 [security/encryption.md](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Encryption (if there is time)
 [web/10-goodbye.md](https://github.com/code4policy/modules/blob/master/web/10-goodbye.md) | Goodbye 👋
 [feedback](https://docs.google.com/forms/d/e/1FAIpQLScKfE0ZZeIchwsjx8L2LcScMYUDovuj_JC4KK9aFm_bJOIAeA/viewform?usp=sf_link) | Feedback and Course Evals
