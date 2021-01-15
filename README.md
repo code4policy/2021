@@ -201,3 +201,22 @@ Video  | Reading| Coding | Project
 **Additional Notes**
 	
 * This [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc8GuAn1iQoauK39SAC5woXCX7w5h7CXTKZp7c1sFwW9MjqoA/viewform?usp=sf_link) is available if you'd like to get your participation points for reflection through "journal entry" rather than Slack. If you wrote any "journal entires", you can submit them here!
+
+## Day 5 (Jan 15)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+<ul><li>[modules/data/](https://github.com/code4policy/modules/tree/master/data)</li><li>[Assignment (Section A)](https://classroom.github.com/a/pP94cFu_)</li><li>[Assignment (Section B)](https://classroom.github.com/a/pP94cFu_)</li></ul> | Data Transformation
+[security/encryption.md](https://github.com/code4policy/modules/blob/master/security/encryption.md) | Encryption (if there is time)
+[web/10-goodbye.md](https://github.com/code4policy/modules/blob/master/web/10-goodbye.md) | Goodbye 👋
+[feedback](https://docs.google.com/forms/d/e/1FAIpQLScKfE0ZZeIchwsjx8L2LcScMYUDovuj_JC4KK9aFm_bJOIAeA/viewform?usp=sf_link) | Feedback and Course Evals
+
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | **(optional)** [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)| [Submit Codecademy](https://classroom.github.com/a/v_3WHKqn) | [Final Project](https://github.com/code4policy/modules/blob/master/finalproject/project.md)
