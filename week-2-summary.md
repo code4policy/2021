@@ -21,6 +21,8 @@ Below is a final summary of things to make sure you've submitted.
 	* **Note:** You are only required to complete this homework if you have not personally either (1) worked with D3 in your final project or (2) done a data conversion using code in your final project. You will indicate whether you have done one of the above or whether you would like to use this assignment to fulfill that requirement in your [Final Project Reflection form](https://docs.google.com/forms/d/e/1FAIpQLSclInjENWwqLMC_SFWgyav1rHfi5ZRB4Unwtjc1mF4SauvsKQ/viewform) that you fill out upon completing your project. 
 
 * [Encryption](https://github.com/code4policy/encryption-dmil/blob/main/README.md) (optional, but very short and very fun!!! - I will be on Slack for a few weeks after the class ends and will read any encrypted messages you send my way!!!) 
+
+* [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn)
 	
 ## Participation
 
