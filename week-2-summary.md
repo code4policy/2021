@@ -14,6 +14,8 @@ Below is a final summary of things to make sure you've submitted.
 
 **Week 2**
 
+* [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn) - This is a GitHub Classroom assignment for your codecademy submssion. Make sure to follow the instructions and upload your screenshots demonstrating completion.
+
 * Pair Programming [[Section A](https://classroom.github.com/a/pP94cFu_)] [[Section B](https://classroom.github.com/g/IP_V0V0b)] [[Modules with Instructions](https://github.com/code4policy/modules/tree/master/data)]
 	* Pair programming exercises will be graded for participation only. Please make sure the name of both the "Driver" and "Navigator" are listed in the README.
 
@@ -22,7 +24,6 @@ Below is a final summary of things to make sure you've submitted.
 
 * [Encryption](https://github.com/code4policy/encryption-dmil/blob/main/README.md) (optional, but very short and very fun!!! - I will be on Slack for a few weeks after the class ends and will read any encrypted messages you send my way!!!) 
 
-* [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn)
 	
 ## Participation
 
