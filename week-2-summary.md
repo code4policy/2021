@@ -6,23 +6,23 @@ Below is a final summary of things to make sure you've submitted.
 
 **Week 1**
 
-* [Cowsay](https://classroom.github.com/a/62sqVx4G)
-* [Universe](https://classroom.github.com/a/wtsFvR6p)
-* [Simple Website](https://github.com/code4policy/simple-website)
-* [Mozilla Website](https://github.com/code4policy/mozilla-website)
-* [`commandline/07-homework.md`](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) (homework with filter.py)
+- [ ] [Cowsay](https://classroom.github.com/a/62sqVx4G)
+- [ ] [Universe](https://classroom.github.com/a/wtsFvR6p)
+- [ ] [Simple Website](https://github.com/code4policy/simple-website)
+- [ ] [Mozilla Website](https://github.com/code4policy/mozilla-website)
+- [ ] [`commandline/07-homework.md`](https://github.com/code4policy/modules/blob/master/commandline/07-homework.md) (homework with filter.py)
 
 **Week 2**
 
-* [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn) - This is a GitHub Classroom assignment for your codecademy submssion. Make sure to follow the instructions and upload your screenshots demonstrating completion of the [assigned sections](./precoursework.md).
+- [ ] [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn) - This is a GitHub Classroom assignment for your codecademy submssion. Make sure to follow the instructions and upload your screenshots demonstrating completion of the [assigned sections](./precoursework.md).
 
-* Pair Programming [[Section A](https://classroom.github.com/a/pP94cFu_)] [[Section B](https://classroom.github.com/g/IP_V0V0b)] [[Modules with Instructions](https://github.com/code4policy/modules/tree/master/data)]
+- [ ] Pair Programming [[Section A](https://classroom.github.com/a/pP94cFu_)] [[Section B](https://classroom.github.com/g/IP_V0V0b)] [[Modules with Instructions](https://github.com/code4policy/modules/tree/master/data)]
 	* Pair programming exercises will be graded for participation only. Please make sure the name of both the "Driver" and "Navigator" are listed in the README.
 
-* [Data Conversions Homework](https://github.com/code4policy/conversions) *see note below
+- [ ] [Data Conversions Homework](https://github.com/code4policy/conversions) *see note below
 	* **Note:** You are only required to complete this homework if you have not personally either (1) worked with D3 in your final project or (2) done a data conversion using code in your final project. You will indicate whether you have done one of the above or whether you would like to use this assignment to fulfill that requirement in your [Final Project Reflection form](https://docs.google.com/forms/d/e/1FAIpQLSclInjENWwqLMC_SFWgyav1rHfi5ZRB4Unwtjc1mF4SauvsKQ/viewform) that you fill out upon completing your project. 
 
-* [Encryption](https://github.com/code4policy/encryption-dmil/blob/main/README.md) (optional, but very short and very fun!!! - I will be on Slack for a few weeks after the class ends and will read any encrypted messages you send my way!!!) 
+- [ ] [Encryption](https://github.com/code4policy/encryption-dmil/blob/main/README.md) (optional, but very short and very fun!!! - I will be on Slack for a few weeks after the class ends and will read any encrypted messages you send my way!!!) 
 
 	
 ## Participation
