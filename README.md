@@ -220,3 +220,7 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | **(optional)** [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)| [Submit Codecademy](https://classroom.github.com/a/v_3WHKqn) | [Final Project](https://github.com/code4policy/modules/blob/master/finalproject/project.md)
+
+**Additional Notes**
+
+- Week 2 Summary - [week-2-summary.md](./week-2-summary.md) contains an overview of the materials you need to make sure you have submitted by the end of class.
