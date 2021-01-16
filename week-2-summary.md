@@ -14,7 +14,8 @@ Below is a final summary of things to make sure you've submitted.
 
 **Week 2**
 
-- [ ] [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn) - This is a GitHub Classroom assignment for your codecademy submssion. Make sure to follow the instructions and upload your screenshots demonstrating completion of the [assigned sections](./precoursework.md).
+- [ ] [CodeCademy Submission](https://classroom.github.com/a/v_3WHKqn) 
+	* This is a GitHub Classroom assignment for your codecademy submssion. Make sure to follow the instructions and upload your screenshots demonstrating completion of the [assigned sections](./precoursework.md).
 
 - [ ] Pair Programming [[Section A](https://classroom.github.com/a/pP94cFu_)] [[Section B](https://classroom.github.com/g/IP_V0V0b)] [[Modules with Instructions](https://github.com/code4policy/modules/tree/master/data)]
 	* Pair programming exercises will be graded for participation only. Please make sure the name of both the "Driver" and "Navigator" are listed in the README.
